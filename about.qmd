@@ -9,10 +9,10 @@ about:
       href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/kalyan-bandaru-0038071ba
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/kalyanjr/kalyanbandaru
 ---
 
 My name is Kalyan Bandaru and I am a data scientist with a passion for solving complex problems using data-driven insights. With a strong foundation in statistics, programming, and machine learning, I have honed my skills in data analysis, predictive modeling, and data visualization.
